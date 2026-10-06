@@ -30,8 +30,4 @@
 
 <br/>
 
-### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faheemkanniyan&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="Faheem's GitHub Stats" />
-</div>
