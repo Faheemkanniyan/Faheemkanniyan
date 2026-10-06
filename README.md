@@ -15,7 +15,7 @@
 - 🔭 I’m currently building an **AI Public Speaking Coach** and modern web applications.
 - 🌱 I’m currently focused on **Python, Django, and Generative AI**.
 - 💬 Ask me about **Backend Development, APIs, and AI integrations**.
-- 📫 How to reach me: **[Add your email/LinkedIn here]**
+- 📫 How to reach me: **[Gmail:faheemkanniyan26@gmail.com/ Linkedin:www.linkedin.com/in/faheem-k26]**
 
 <br/>
 
