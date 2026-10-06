@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Faheem Kanniyan 👋</h1>
-  <h3>Software Developer</h3>
+  <h3>Software Engineering</h3>
   <p>Building intelligent web applications, AI-driven platforms, and scalable backend systems.</p>
 
   <p>
